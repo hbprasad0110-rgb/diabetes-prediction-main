@@ -38,12 +38,12 @@ diabetes-prediction-main/
 ├── data/
 ├── notebooks/
 ├── submission.csv
-├── requirements.txt
 └── README.md
 
 ## How to Run
-git clone https://github.com/hbprasad0110-rgb/diabetes-prediction-main.git
-cd diabetes-prediction-main
-pip install -r requirements.txt
+1. Clone the repository  
+git clone https://github.com/hbprasad0110-rgb/diabetes-prediction-main.git  
 
-Run the notebook to train models and evaluate predictions.
+2. Open the Jupyter notebook and run all cells to train and evaluate the models.
+
+
